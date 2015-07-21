@@ -1,6 +1,7 @@
-
-build
-include
-lib
-.Python
-.pyc
+.Python 
+.pyc 
+.idea 
+include 
+lib 
+local
+pip-selfcheck.json
